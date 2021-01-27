@@ -1,5 +1,6 @@
-### Hi there 👋
+### Howdy 👋
 
+Welcome to my personal place of all things coding. Have a walkabout and see what you like!
 <!--
 **ShaneUP1/ShaneUP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
