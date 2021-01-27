@@ -1,4 +1,4 @@
-<div align="center"> # Howdy 👋 </div>
+<h1 align="center"> # Howdy 👋 </h1>
 
 ## Welcome to my personal place of all things coding. Have a walkabout, see what you like, and please feel free to reach out!
 
